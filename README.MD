@@ -6,6 +6,7 @@ The objective of this project is to analyze the data and predict if the employee
 
 ## Run the notebook
 
+You should create a folder named whatever you want, and inside that folder, run the following command in the Conda terminal:
 
 ```bash
   conda create --name employees-analysis python=3.11
