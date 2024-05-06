@@ -4,7 +4,7 @@ In this project we will be exploring data related to employees. We will be using
 
 The objective of this project is to analyze the data and predict if the employee will leave or not.
 
-## Run the notebook
+## Run the notebook locally
 
 You should create a folder named whatever you want, and inside that folder, run the following command in the Conda terminal:
 
@@ -18,3 +18,7 @@ You should create a folder named whatever you want, and inside that folder, run 
   pip install -r requirements.txt
   jupyter notebook EmployeesAnalysis.ipynb
 ```
+
+## See the notebook
+
+Click [here](EmployeesAnalysis.ipynb) to see the notebook.
